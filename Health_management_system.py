@@ -27,7 +27,7 @@ def optionss():
         aces = int(input())
         # To read or write in the diet folder.
         if aces == 1:
-            print("You have opened Diet Folder!!")
+            print("You have opened Diet Folder!")
             print("Press 1 to write, Press 2 to see the log")
             ope = int(input())
             # To write in the diet folder.
