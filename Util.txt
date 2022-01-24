@@ -1,4 +1,0 @@
-This will be the utilities of my project of version 1.
-update -- This will be my update for version 2.
-update -- This will be my update for version 3.
-update -- I also updated this from github. (Version 4)

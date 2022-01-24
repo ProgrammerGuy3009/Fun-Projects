@@ -1,5 +1,0 @@
-This will be my version one of my project.
-update - This will be my verion 2 of my project.
-update - This will be my version 3 update.
-update - I have updated this project from github (version 4).
-update - Version 5
